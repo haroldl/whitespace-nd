@@ -3,3 +3,5 @@
 *~
 *.swp
 dist
+.stack-work/
+stack.yaml.lock
